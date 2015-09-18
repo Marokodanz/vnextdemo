@@ -1,3 +1,3 @@
 # vnextdemo
 vNext Demo
-Projekt do prezentacji
+Projekt do prezentacji 1.0
