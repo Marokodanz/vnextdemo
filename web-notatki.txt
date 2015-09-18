@@ -1,0 +1,16 @@
+Haml - kompilowany do HTML; język hipertekstowy
+
+SASS - kompilowany do CSS
+
+CoffeeScript - 
+
+Code Climate
+
+Travis - serwer integracyjny
+
+
+OPCache 
+
+Capistrano
+
+mod_expire
